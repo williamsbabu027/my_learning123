@@ -1,0 +1,9 @@
+{
+	"name": "WG-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "be6f2813-7612-4a8f-bdc8-4439f8b7c7c3",
+		"tenantId": "5d8b26fc-8ff2-4f04-8126-50e7902fde18"
+	}
+}
